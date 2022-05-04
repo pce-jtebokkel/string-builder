@@ -1,0 +1,6 @@
+[submodule "unit-test-history"]
+	path = unit-test-history
+	url = https://github.com/pce-jtebokkel/string-builder-unit-test-history.git
+[submodule "library-history"]
+	path = library-history
+	url = https://github.com/pce-jtebokkel/string-builder-library-history.git
